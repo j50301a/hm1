@@ -1,4 +1,3 @@
-
 ```mermaid
 gantt
     title A Gantt Diagram Example
@@ -9,10 +8,10 @@ gantt
     取得硬體     :a2, after a1, 1d
 
     section Development
-    程式開發      :a3, 2024-02-01, 30d
+    程式開發      :a3, 2024-02-02, 30d
     安裝軟體      :a4, after a3, 2d
 
     section Testing
     程式測試     :a5, after a4, 12d
     系統測試     :a6, after a5, 14d
-```
+
