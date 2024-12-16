@@ -52,3 +52,4 @@ erDiagram
     EXAM_QUESTION }o-- QUESTION : contains
     EXAM --o{ EXAM_RESULT : records
     USER ||--o{ EXAM_RESULT : receives
+```
